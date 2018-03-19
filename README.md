@@ -13,6 +13,7 @@ So, the idea is to launch Spark and Zeppelin over Kubernetes over Google cloud
 
 * [kubectl CheatSheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 * [PySpark CheatSheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
+* [Spark Perf tests](https://github.com/databricks/spark-perf)
 
 ## GCloud Deployment Manager
 
